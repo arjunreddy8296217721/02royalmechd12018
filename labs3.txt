@@ -1,0 +1,55 @@
+to open the python prompt: type python3 in the terminal
+>>> 3+4
+7
+>>> 4-5
+-1
+>>> 8*3
+24
+>>> 5/4
+1.25
+>>> 5**3
+125
+>>> 6.7+8.9
+15.600000000000001
+>>> 6.8*3.4
+23.119999999999997
+>>> 5.66//6.77
+0.0
+>>> 4%5
+4
+>>> 6%2
+0
+>>> 4%5
+4
+>>> exit()
+102@soetcse:~/sohail$ python3
+Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
+[GCC 7.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=30
+>>> b=20
+>>> a<b
+False
+>>> a==b
+False
+>>> a=20
+>>> a==b
+True
+102@soetcse:~/sohail$ python add.py
+enter the value of a:5
+enter the value of b:4
+9
+enter the value of a^Z
+[1]+  Stopped                 python add.py
+dl102@soetcse:~/sohail$ python3 add.py
+enter the number 6
+number is even
+dl102@soetcse:~/sohail$ python3 add.py
+enter the number 5
+number is odd
+dl102@soetcse:~/sohail$ python3 add.py
+enter the number 1
+number is odd
+dl102@soetcse:~/sohail$ 
+
+
