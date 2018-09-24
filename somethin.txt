@@ -1,0 +1,118 @@
+l102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 6
+number is positive
+enter the number 0.1
+Traceback (most recent call last):
+  File "lbs4.py", line 6, in <module>
+    num=int(input("enter the number"))
+ValueError: invalid literal for int() with base 10: ' 0.1'
+dl102@soetcse:~/sohail$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 4
+number is positive
+enter the number -4
+number is negative
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 7
+number is positive
+enter the number -84
+number is negative
+dl102@soetcse:~/sohail$ python3 lbs4.py
+  File "lbs4.py", line 11
+    print("c"):
+              ^
+SyntaxError: invalid syntax
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 95
+A+
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 40
+A
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 40
+c
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 39
+fail
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 57
+c
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 90
+A+
+dl102@soetcse:~/sohail$ python3 lbs4.py
+enter the number 75
+B+
+dl102@soetcse:~/sohail$ ^C
+dl102@soetcse:~/sohail$ python3 lbs42.py
+enter the number 4
+Traceback (most recent call last):
+  File "lbs42.py", line 2, in <module>
+    if(a>b):
+NameError: name 'a' is not defined
+dl102@soetcse:~/sohail$ python3 lbs42.py
+enter the value of a 4
+Traceback (most recent call last):
+  File "lbs42.py", line 2, in <module>
+    if(a>b):
+NameError: name 'a' is not defined
+dl102@soetcse:~/sohail$ python3 lbs42.py
+enter the value of a 4
+enter value of b 5
+Traceback (most recent call last):
+  File "lbs42.py", line 3, in <module>
+    if(a>b):
+NameError: name 'a' is not defined
+dl102@soetcse:~/sohail$ python3 lbs42.py
+Traceback (most recent call last):
+  File "lbs42.py", line 1, in <module>
+    if(a>b):
+NameError: name 'a' is not defined
+dl102@soetcse:~/sohail$ python3 lbs42.py
+  File "lbs42.py", line 3
+    if(a>b)
+          ^
+SyntaxError: invalid syntax
+dl102@soetcse:~/sohail$ python3 lbs42.py
+enter the value of a 5
+enter the value of b 4
+Traceback (most recent call last):
+  File "lbs42.py", line 3, in <module>
+    if(a>b):
+NameError: name 'a' is not defined
+dl102@soetcse:~/sohail$ python3 lbs42.py
+enter the value of a 4
+enter the value of b 5
+b is greater than a
+dl102@soetcse:~/sohail$ python3 lbs42.py
+enter the value of a 88
+enter the value of b 47
+a is greater than b
+dl102@soetcse:~/sohail$ python3 lbs42.py
+enter the value of a 54
+enter the value of b 24
+a is greater than b
+dl102@soetcse:~/sohail$ python3 lbs43.py
+python3: can't open file 'lbs43.py': [Errno 2] No such file or directory
+dl102@soetcse:~/sohail$ python3 lbs43.py
+  File "lbs43.py", line 1
+    a=b=c=int("input(value of a,b&c"))
+                                     ^
+SyntaxError: invalid syntax
+dl102@soetcse:~/sohail$ 
+
