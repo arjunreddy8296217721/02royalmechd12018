@@ -1,0 +1,11 @@
+press r to roll the dicer
+u got 4
+new position is 4
+press r to roll the dicer
+u got 6
+new position is 10
+press r to roll the dicer
+u got 3
+new position is 13
+i got the ladder
+

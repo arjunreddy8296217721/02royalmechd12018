@@ -1,0 +1,30 @@
+max and min in list
+l102@soetcse:~/sohail$ python3
+Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
+[GCC 7.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> l=[1,2,3,4]
+>>> l
+[1, 2, 3, 4]
+>>> l.append(5)
+>>> l
+[1, 2, 3, 4, 5]
+>>> a=['a','b','c']
+>>> a
+['a', 'b', 'c']
+>>> a.index('a')
+0
+>>> a.insert(3,'d')
+>>> a
+['a', 'b', 'c', 'd']
+>>> a.remove('d')
+>>> a
+['a', 'b', 'c']
+>>> a.count('a')
+1
+>>> a+=['a','b']
+>>> 
+>>> a
+['a', 'b', 'c', 'a', 'b']
+>>> 
+
