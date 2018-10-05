@@ -1,0 +1,71 @@
+tik tak toe
+l102@soetcse:~/sohail$ python3 lbs8.py
+1 | 2 | 3
+----------
+4 | 5 | 6
+----------
+7 | 8 | 9
+chose a place:2
+1 | X | 3
+----------
+4 | 5 | 6
+----------
+7 | 8 | 9
+chose a place:3
+1 | X | X
+----------
+4 | 5 | 6
+----------
+7 | 8 | 9
+chose a place:4
+1 | X | X
+----------
+X | 5 | 6
+----------
+7 | 8 | 9
+chose a place:3
+1 | X | X
+----------
+X | 5 | 6
+----------
+7 | 8 | 9
+chose a place:4
+1 | X | X
+----------
+O | 5 | 6
+----------
+7 | 8 | 9
+chose a place:5
+1 | X | X
+----------
+O | X | 6
+----------
+7 | 8 | 9
+chose a place:6
+1 | X | X
+----------
+O | X | X
+----------
+7 | 8 | 9
+chose a place:1
+X | X | X
+----------
+O | X | X
+----------
+7 | 8 | 9
+chose a place:6
+X | X | X
+----------
+O | X | X
+----------
+7 | 8 | 9
+chose a place:8
+X | X | X
+----------
+O | X | X
+----------
+7 | X | 9
+chose a place:8
+game over
+dl102@soetcse:~/sohail$ 
+
