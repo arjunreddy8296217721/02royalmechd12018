@@ -1,0 +1,9 @@
+to add python file path
+ add.py      lbs4.py     lbs54.py   lbs63.py   lbs8.py             somethin.txt
+ labs3.txt   lbs4.text   lbs55.py   lbs6.py    lbs9.py             tables.txt
+ lbs42.py    lbs52.py    lbs5.py    lbs73.py  'max and min.txt'    ttt.txt
+ lbs43.py    lbs53.py    lbs62.py   lbs7.py   'snake ladder.txt'
+pydl102@soetcse:~/sohail$ chmod +x add.py
+dl102@soetcse:~/sohail$ ./add.py
+hello
+
